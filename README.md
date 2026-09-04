@@ -93,4 +93,4 @@
 
 ## Certifications
 
-데이터분석 준전문가(ADsP) · OPIc Intermediate Mid 1급 · JLPT N2
+데이터분석 준전문가(ADsP) · OPIc Intermediate Mid 1급 · JLPT N1
