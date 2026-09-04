@@ -41,20 +41,6 @@
 
 `FastAPI` `Redis` `PyTorch` `Docker Compose` `AWS EC2`
 
-### 🩸 [당당케어 (Dangdang Care)](https://github.com/Ji-gam/AH_04_03)
-`팀 프로젝트`
-
-매일의 식사·운동·수면 기록을 바탕으로 당뇨병 위험도를 AI로 예측하고, 캐릭터(당당몬)를 키우며 생활습관 개선을 이어가도록 돕는 헬스케어 서비스.
-
-`Python` `FastAPI`
-
-### 🧓 [시니어 생활습관 챌린지 서비스](https://github.com/Ji-gam/AH_04_04)
-`팀 프로젝트 · MVP`
-
-FastAPI, SQLAlchemy, MySQL, Docker Compose 기반 백엔드 + Android 앱으로 구성된 시니어 대상 생활습관 챌린지 서비스.
-
-`FastAPI` `SQLAlchemy` `MySQL` `Docker Compose` `Android`
-
 ### 🐾 [GapFlag](https://github.com/Ji-gam/GapFlag)
 `개인 프로젝트`
 
